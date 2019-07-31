@@ -1,1 +1,0 @@
-React-Color-Picker Project
